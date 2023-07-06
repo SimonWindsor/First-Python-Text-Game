@@ -1,0 +1,5 @@
+quick idea for text games:
+
+if fighting takes place, an "enemy" boolean can be added to a game square so that an item/weapon can't be "used" a second time in that game square.
+
+a "changed" or "altered" boolean to prevent items being used after they already have and to prevent the text from appearing if user trys to use an item again in same game square

@@ -1,0 +1,106 @@
+13
+13
+
+13
+10
+south,
+You are in a small row boat, you will need something to row the boat. You see a jetty north-east across the water.
+
+False
+13
+11
+north,south,
+You are on a jetty, a boat is ahead.
+
+False
+13
+12
+north,south,
+You are on a beach, a jetty lies ahead. There is water to the west and to the east is dense vegetation you are unable to explore.
+
+False
+13
+13
+north,east,south,
+You are on a beach, on an island in the middle of a river, the water is to the west. A jetty far to the north, in the east you see a hut. The beach continues south.
+
+False
+13
+14
+north,east,
+You are on the south-west corner of the island. You see mountains on the other side of the river.
+
+False
+14
+13
+west,
+You are inside the hut, the exit is to the west.
+rope,torch,
+False
+14
+14
+east,west,
+You are on the southern coast of the island. Light waves gently sweep on the coast. All is peaceful.
+
+False
+15
+14
+east,west,
+While on the southern coast of the island, you see a cave to the east.
+
+False
+16
+7
+east,
+You are in a boat at the jetty on the eastern river bank. The island is to the south-west.
+
+False
+16
+12
+south,
+You have climbed up the rock. There is a skeleton here. You look around.
+oar,
+True
+16
+13
+north,south,
+You are now in the cave. You see stalactites and stalagmites. A large rock lies ahead but you cannot climb it on your own.
+
+True
+16
+14
+north,west,
+You have walked into the entrance of a cave. It is dark inside. You will need something to enter.
+
+False
+17
+7
+east,west,
+You are on a jetty on the eastern river bank. A path is to the east.
+knife,
+False
+18
+6
+
+You fall into a vat of acid and die VERY PAINFULLLYYYYYY! Yeah, you're dead!
+
+False
+18
+7
+north,east,west,south,
+Go east to end game, north to die!!!!! Anndd... go south to use knife and die
+
+False
+18
+8
+north,
+Some jerk wants to kill you, get your knife!!
+
+False
+19
+7
+
+Well Done, you've sort of won for now!
+
+False
+end of data
